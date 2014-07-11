@@ -1,0 +1,12 @@
+color	codigo		hover	color	codigo
+
+red	#FF0000		hover	blue1	#288DFF		
+orange  #FF8A00		hover	purple	#8524E0		
+green	#ADE600		hover	pink	#FC28DC		
+blue	#00E1FC		hover	orange	#FF8A00		
+pink	#FC28DC		hover	green	#ADE600		
+purple	#8524E0		hover	blue	#00E1FC		
+blue1	#288DFF		hover	red	#FF0000		
+
+active 
+pink	red
